@@ -1,10 +1,10 @@
 import React from 'react'
 import react from '../assets/reactdev.jpg'
-import digital from '../assets/digitalmarketing.png'
+import digital from '../assets/Digitalmarketing.png'
 import seo from '../assets/SEO.jpg'
 import ui from '../assets/UI_Design.jpg'
 import ecom from '../assets/Ecoomerce.jpg'
-import bi from '../assets/Brand_Identity.jpg'
+import bi from '../assets/Brand_identity.jpg'
 import wp from '../assets/wp.jpg'
 const Service = () => {
   return ( 
